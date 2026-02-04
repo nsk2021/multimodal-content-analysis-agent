@@ -1,6 +1,6 @@
 # Multi-Modal Content Analysis Agent (FlightAI)
 
-A GitHub-ready project that demonstrates a **multi-modal, function-calling AI agent** for airline customer support. The agent can ingest **text, audio, and image** inputs, classify the request, call tools when needed (example: ticket price lookup), and return a **1-sentence support response**.
+This project demonstrates a **multi-modal, function-calling AI agent** for airline customer support. The agent can ingest **text, audio, and image** inputs, classify the request, call tools when needed (example: ticket price lookup), and return a **1-sentence support response**.
 
 This repo is tailored to the resume project framing: **function-calling**, **multi-modal processing**, and **automated resolution** for complex content evaluation queries.
 
