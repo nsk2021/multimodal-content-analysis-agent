@@ -51,7 +51,3 @@ The last cell launches a Gradio UI where you can provide:
 
 - No secrets are committed: API keys are loaded from environment variables.
 - The SQLite DB is created locally (`flightai.db`) when the notebook runs.
-
-## License
-
-MIT (add a LICENSE file if you want this to be explicit).
